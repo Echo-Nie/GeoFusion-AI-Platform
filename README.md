@@ -1,14 +1,20 @@
-# 🌍 GeoFusion AI Platform
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Echo-Nie/GeoFusion-AI-Platform/main/GeoFusion.png" width="500px"/>
+  <h1 align="center">
+   Remote Sensing Image Deep Learning Processing Platform 
+  </h1>
+</p>
+<p align="center">
+   An intelligent remote sensing image processing platform integrating classification, super-resolution, and colorization.
 </p>
 
-> An intelligent remote sensing image processing platform integrating classification, super-resolution, and colorization.
+</br>
+
+
 
 ## 🔧 Project Overview
 
-**GeoFusion AI Platform** is a multi-functional remote sensing image processing system developed by the **YNU Deep Learning Course Group**. The platform integrates three core tasks in remote sensing image processing:
+**GeoFusion AI Platform** is an advanced remote sensing image processing system designed to provide comprehensive solutions for enhancing, analyzing, and interpreting satellite and aerial imagery. This platform integrates three core functionalities: **image classification, super-resolution enhancement, and colorization**, making it a versatile tool for researchers, urban planners, environmental scientists, and more.
 
 - ✅ Image Classification  
 - ✅ Image Super-Resolution  
