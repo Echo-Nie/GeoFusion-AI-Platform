@@ -1,5 +1,9 @@
 # 🌍 GeoFusion AI Platform
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Echo-Nie/GeoFusion-AI-Platform/main/GeoFusion.png" width="500px"/>
+</p>
+
 > An intelligent remote sensing image processing platform integrating classification, super-resolution, and colorization.
 
 ## 🔧 Project Overview
